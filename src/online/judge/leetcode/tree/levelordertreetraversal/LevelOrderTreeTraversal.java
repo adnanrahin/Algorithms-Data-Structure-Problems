@@ -1,4 +1,4 @@
-package online.judge.leetcode.levelordertreetraversal;
+package online.judge.leetcode.tree.levelordertreetraversal;
 
 import java.util.ArrayList;
 import java.util.HashMap;

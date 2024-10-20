@@ -1,4 +1,4 @@
-package online.judge.leetcode.validparenttheses;
+package online.judge.leetcode.tree.validparenttheses;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package online.judge.leetcode.inordertraversal;
+package online.judge.leetcode.tree.inordertraversal;
 
 import java.util.ArrayList;
 import java.util.List;

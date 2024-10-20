@@ -1,4 +1,4 @@
-package online.judge.leetcode.zigzagordertreetraversal;
+package online.judge.leetcode.tree.zigzagordertreetraversal;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

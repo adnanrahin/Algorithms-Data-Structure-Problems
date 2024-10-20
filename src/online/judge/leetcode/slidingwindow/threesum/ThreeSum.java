@@ -1,4 +1,4 @@
-package online.judge.leetcode.threesum;
+package online.judge.leetcode.slidingwindow.threesum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

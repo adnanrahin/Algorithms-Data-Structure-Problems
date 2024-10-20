@@ -1,4 +1,4 @@
-package online.judge.leetcode.sumroottoleaf;
+package online.judge.leetcode.tree.sumroottoleaf;
 
 public class SumRootToLeaf {
 

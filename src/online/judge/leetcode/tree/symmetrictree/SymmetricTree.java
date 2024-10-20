@@ -1,4 +1,4 @@
-package online.judge.leetcode.symmetrictree;
+package online.judge.leetcode.tree.symmetrictree;
 
 public class SymmetricTree {
 

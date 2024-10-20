@@ -1,4 +1,4 @@
-package online.judge.leetcode.palindromenumber;
+package online.judge.leetcode.adhoc.palindromenumber;
 
 public class PalindromeNumber {
 

@@ -1,4 +1,4 @@
-package online.judge.leetcode.twosum;
+package online.judge.leetcode.slidingwindow.twosum;
 
 import java.util.Arrays;
 import java.util.HashMap;

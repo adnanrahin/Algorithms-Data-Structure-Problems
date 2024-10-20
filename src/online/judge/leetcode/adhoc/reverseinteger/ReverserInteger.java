@@ -1,4 +1,4 @@
-package online.judge.leetcode.reverseinteger;
+package online.judge.leetcode.adhoc.reverseinteger;
 
 public class ReverserInteger {
 

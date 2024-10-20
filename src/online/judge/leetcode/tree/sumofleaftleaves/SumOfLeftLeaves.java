@@ -1,4 +1,4 @@
-package online.judge.leetcode.sumofleaftleaves;
+package online.judge.leetcode.tree.sumofleaftleaves;
 
 public class SumOfLeftLeaves {
 

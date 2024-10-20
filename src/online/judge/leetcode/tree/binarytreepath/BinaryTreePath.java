@@ -1,4 +1,4 @@
-package online.judge.leetcode.binarytreepath;
+package online.judge.leetcode.tree.binarytreepath;
 
 import java.util.ArrayList;
 import java.util.List;

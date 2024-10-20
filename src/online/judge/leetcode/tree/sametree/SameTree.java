@@ -1,4 +1,4 @@
-package online.judge.leetcode.sametree;
+package online.judge.leetcode.tree.sametree;
 
 public class SameTree {
 
