@@ -1,4 +1,4 @@
-package online.judge.leetcode.array;
+package online.judge.leetcode.array.removeduplicatesfromsortedarray;
 
 public class RemoveDuplicatesFromSortedArray {
 
