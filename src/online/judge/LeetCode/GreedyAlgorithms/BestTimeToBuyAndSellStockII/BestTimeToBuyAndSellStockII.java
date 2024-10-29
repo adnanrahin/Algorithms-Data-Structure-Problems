@@ -1,4 +1,4 @@
-package online.judge.LeetCode.GreedyAlgorithmsII.BestTimeToBuyAndSellStock;
+package online.judge.LeetCode.GreedyAlgorithms.BestTimeToBuyAndSellStockII;
 
 public class BestTimeToBuyAndSellStockII {
 
